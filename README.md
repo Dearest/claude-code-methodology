@@ -1,6 +1,6 @@
 <div align="center">
 
-# Agent Methodology
+# Claude Code Methodology
 
 > _"用生产级 Agent 的方式，来构建你的 Agent。"_
 

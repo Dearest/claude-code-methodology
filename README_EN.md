@@ -1,6 +1,6 @@
 <div align="center">
 
-# Agent Methodology
+# Claude Code Methodology
 
 > _"Build your agents the way production agents are built."_
 
