@@ -36,7 +36,7 @@ Every pattern and anti-pattern is derived from reading the actual production sou
 ## Install
 
 ```bash
-npx skills add Dearest/agent-methodology
+npx skills add Dearest/claude-code-methodology
 ```
 
 Once installed, the skill automatically activates in any Claude Code conversation involving agent development.

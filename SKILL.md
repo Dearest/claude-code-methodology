@@ -1,5 +1,5 @@
 ---
-name: agent-methodology
+name: claude-code-methodology
 description: Production-grade Agent development methodology extracted from Claude Code. 7-dimension framework covering tool design, system prompts, permission & safety, multi-agent orchestration, token economy, memory/state, and extensibility. Supports architecture design, implementation guidance, and agent review. Trigger on "Agent design", "build an agent", "AI agent", "tool design", "system prompt architecture", "agent review", "multi-agent", or any agent development concern.
 ---
 

@@ -36,7 +36,7 @@
 ## 安装
 
 ```bash
-npx skills add Dearest/agent-methodology
+npx skills add Dearest/claude-code-methodology
 ```
 
 安装完成后，在任何 Claude Code 对话中涉及 Agent 开发时会自动触发。
